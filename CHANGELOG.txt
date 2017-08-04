@@ -1,2 +1,2 @@
-1.0
+1.0 (Auguest 4th, 2017)
 - Initial release
