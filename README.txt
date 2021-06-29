@@ -1,3 +1,5 @@
+DEPRECATED! Feature has been added in MyBB 1.8.20.
+
 ## INFORMATION ##
 
 Show Referrals (1.0) for MyBB 1.8
